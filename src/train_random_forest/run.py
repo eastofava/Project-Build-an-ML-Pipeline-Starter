@@ -23,7 +23,7 @@ from sklearn.ensemble import RandomForestRegressor
 from sklearn.metrics import mean_absolute_error
 from sklearn.pipeline import Pipeline, make_pipeline
 import os
-os.system("wandb login $WANDB_API_KEY")
+os.system("wandb login dd9892597efdbed03739e09a4b7886d52e7dd824")
 
 
 def delta_date_feature(dates):
