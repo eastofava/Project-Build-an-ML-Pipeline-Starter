@@ -4,7 +4,6 @@ This script trains a Random Forest
 """
 import argparse
 import logging
-import os
 import shutil
 import matplotlib.pyplot as plt
 
@@ -23,6 +22,8 @@ import wandb
 from sklearn.ensemble import RandomForestRegressor
 from sklearn.metrics import mean_absolute_error
 from sklearn.pipeline import Pipeline, make_pipeline
+import os
+os.system("wandb login $WANDB_API_KEY")
 
 
 def delta_date_feature(dates):
@@ -40,7 +41,7 @@ logger = logging.getLogger()
 
 def go(args):
 
-    run = wandb.init(job_type="train_random_forest")
+    run = wandb.init(project="nyc_airbnb_pipeline", job_type="train_random_forest")
     run.config.update(args)
 
     # Get the Random Forest configuration and update W&B
