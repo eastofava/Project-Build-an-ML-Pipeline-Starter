@@ -1,0 +1,401 @@
+id,name,host_id,host_name,neighbourhood_group,neighbourhood,latitude,longitude,room_type,price,minimum_nights,number_of_reviews,last_review,reviews_per_month,calculated_host_listings_count,availability_365
+29424522,1-bed/ba  PR condo Wyn.  Midtown 45 Thanksgiving,30616847,Martha,Manhattan,Midtown,40.75322,-73.97353000000001,Private room,500,3,0,,,1,365
+30193034,*NO GUEST SERVICE FEE* Beekman Tower Studio Suite  #12,205031545,Red Awning,Manhattan,Midtown,40.754,-73.96531,Entire home/apt,675,28,6,2019-04-25,0.95,49,253
+576227,Bright and Spacious Manhattan,2834840,Sheri,Manhattan,Harlem,40.82446,-73.95274,Private room,700,28,4,2016-10-03,0.05,1,22
+35189052,Beautiful Brooklyn Brownstone next to Park,26620387,Louise,Brooklyn,Park Slope,40.66737,-73.9747,Entire home/apt,945,4,0,,,1,19
+9132731,"2800 SQ FT Loft for Off-Sites, Events, & Shoots",6674503,Evelyn,Brooklyn,Clinton Hill,40.68567,-73.96271999999999,Entire home/apt,750,1,6,2019-06-14,0.17,1,365
+2361020,URBAN CHIC VIDEO/PHOTO SHOOTS ONLY,5535265,Krystal,Brooklyn,Bedford-Stuyvesant,40.68172,-73.93236,Entire home/apt,500,1,11,2015-10-20,0.19,1,365
+21762711,Large House in Brooklyn near Express Subway,158554204,Su,Brooklyn,Bedford-Stuyvesant,40.67917,-73.93103,Entire home/apt,700,1,7,2019-06-01,0.42,1,303
+1567225,"NYC LARGE 3 BR West Side Manhattan, New York City",8336526,Matthew,Manhattan,Upper West Side,40.78024,-73.97941999999999,Entire home/apt,550,4,17,2019-04-29,0.27,1,201
+1147507,RUSTIC/MODERN/EV/NYC,5523186,Mark,Manhattan,East Village,40.73032,-73.98469,Entire home/apt,750,3,9,2018-08-30,0.18,2,364
+30193428,*NO GUEST SERVICE FEE* Beekman Tower One Bedroom Suite  #9,205031545,Red Awning,Manhattan,Midtown,40.75271,-73.96638,Entire home/apt,714,28,0,,,49,257
+15799603,Noisy room next to Prospect Park,391488,Thalith,Brooklyn,Prospect-Lefferts Gardens,40.65762,-73.96129,Private room,500,1,0,,,1,89
+31014208,Bright & Airy East Village Penthouse w/ Terrace,8525142,Molly,Manhattan,East Village,40.72391,-73.97698000000001,Entire home/apt,520,3,7,2019-06-30,1.14,1,80
+34866682,New 9 Bed 4 Full Bath 3000 SF Spacious Apartment,262657892,Philip,Brooklyn,Crown Heights,40.66678,-73.93035,Entire home/apt,830,3,0,,,3,213
+11933676,Soho PH 2 Bedroom Private Terrace,63702305,Caroline,Manhattan,SoHo,40.72289,-73.9974,Entire home/apt,500,4,72,2019-07-01,1.8,1,330
+4909080,2 Stops to MANHATTAN!,25276263,Charles,Brooklyn,Boerum Hill,40.6881,-73.98699,Entire home/apt,500,6,29,2016-09-02,0.53,1,89
+22192877,Upper West Side Home for the Holidays,22866437,Eliana,Manhattan,Upper West Side,40.77838,-73.97851,Entire home/apt,600,3,0,,,2,0
+29923618,Modern 3 Bedroom with Private Backyard,224987632,Daisy,Manhattan,Lower East Side,40.71992,-73.98472,Entire home/apt,550,3,50,2019-07-07,6.67,1,199
+33741545,Astoria Apt,58024325,Nate,Queens,Astoria,40.76001,-73.92313,Private room,700,1,1,2019-05-06,0.47,1,125
+35570674,Quiet Apartment for Large Groups,49658508,Kate,Manhattan,Kips Bay,40.74244,-73.97872,Entire home/apt,600,2,1,2019-07-02,1.0,1,226
+25462356,New Clean Comfortable Studio w/Terrace,154629753,Andrew,Manhattan,Hell's Kitchen,40.76746,-73.98942,Entire home/apt,500,10,41,2019-06-21,3.17,1,126
+27237625,*NO GUEST SERVICE FEE* Luxury Midtown One Bedroom Suite with Kitchen,205031545,Red Awning,Manhattan,Midtown,40.75459,-73.96706999999999,Entire home/apt,737,3,3,2019-06-10,0.44,49,153
+30193485,*NO GUEST SERVICE FEE* Beekman Tower One Bedroom Suite  #6,205031545,Red Awning,Manhattan,Midtown,40.75459,-73.96566,Entire home/apt,714,28,0,,,49,257
+8847577,Beautiful Brooklyn Brownstone,21052756,Odette,Brooklyn,Cobble Hill,40.68561,-73.99571999999999,Entire home/apt,1000,5,1,2016-01-03,0.02,1,0
+30956885,Entire Loft Apartment in Soho/NoHo/Nolita,96049478,Lida,Manhattan,NoHo,40.726040000000005,-73.99342,Entire home/apt,550,7,4,2019-05-13,1.38,1,14
+27237610,*NO GUEST SERVICE FEE* Great Location! Luxury Midtown Studio with Kitchen,205031545,Red Awning,Manhattan,Midtown,40.75231,-73.96706999999999,Entire home/apt,699,3,7,2019-05-31,1.27,49,176
+29061711,"In the heart of Hell’s Kitchen , Time Sqare.",76114530,Neetu,Manhattan,Hell's Kitchen,40.76177,-73.99426,Entire home/apt,575,6,0,,,1,83
+16634357,Huge 2 Bed Apt with Private Bathrooms in UES!,109886922,Michael,Manhattan,Upper East Side,40.77486,-73.95296,Entire home/apt,899,30,6,2018-05-18,0.23,1,89
+22544810,Williamsburg stunning duplex apartment 4br/3bath,10951481,Ann,Brooklyn,Williamsburg,40.712990000000005,-73.96144,Entire home/apt,550,2,92,2019-06-23,5.24,5,90
+13113626,Fantastic Midtown Apartment!-2b,46648109,Bridgestreet Corporate,Manhattan,Midtown,40.75722,-73.97842,Entire home/apt,559,30,2,2018-10-20,0.17,1,0
+7174695,"Lux, UES,  3Beds, Family Apt",36903246,Dana,Manhattan,Upper East Side,40.776140000000005,-73.95036999999999,Entire home/apt,700,1,1,2015-09-05,0.02,1,0
+26385422,NY HILTON CLUB 2 BR SUITE Luxury Holidays 2019,58071546,Mary,Manhattan,Midtown,40.76151,-73.97894000000001,Entire home/apt,599,2,3,2019-01-03,0.24,1,0
+5049823,NYC New Years Penthouse suite,22927481,Howard,Manhattan,Midtown,40.7655,-73.98018,Private room,500,3,1,2015-11-11,0.02,3,0
+2082694,Brand New 3BR Apartment,10638711,Corey,Brooklyn,Williamsburg,40.70958,-73.94287,Entire home/apt,700,3,1,2014-01-02,0.01,1,0
+20452409,2 BR Presidential for FAMILY Vacation ★ EPIC VIEWS,64065593,ResortShare5,Manhattan,Midtown,40.751740000000005,-73.97213,Entire home/apt,672,2,3,2018-07-27,0.23,13,266
+29631765,Modern and Spacious Brooklyn Duplex,17031708,Hannah,Brooklyn,Williamsburg,40.71301,-73.94846,Private room,500,3,1,2018-12-05,0.14,1,180
+35132016,Luxury 3BR in Upper West Side with swimming pool,60136891,Bo Hee,Manhattan,Upper West Side,40.78578,-73.97678,Entire home/apt,590,7,0,,,1,38
+20621413,2-Bedroom Presidential 1 - Wyndham Midtown 45,145801588,Aaron,Manhattan,Midtown,40.75371,-73.97225999999999,Entire home/apt,699,3,3,2019-04-11,0.2,4,324
+30142833,Brand New Modern Apt in Fi-Di Manhattan New York,61116037,Jackie,Manhattan,Financial District,40.70428,-74.00707,Entire home/apt,550,2,30,2019-06-23,3.96,1,72
+33072230,Sonder | Stock Exchange | Sleek 3BR + Laundry,219517861,Sonder (NYC),Manhattan,Financial District,40.70645,-74.01186,Entire home/apt,520,2,6,2019-06-16,2.43,327,262
+738588,"Wedding guests accommodations, 3-7 bedrooms",1360198,Marina,Staten Island,Arrochar,40.59193,-74.06475999999999,Entire home/apt,625,4,1,2015-11-01,0.02,4,335
+7950368,Williamsburg Bedford Ave L Train,1696218,David,Brooklyn,Williamsburg,40.7187,-73.95606,Entire home/apt,500,26,9,2018-02-25,0.19,1,178
+256328,Luxury Chelsea Townhouse at the High Line,1347034,Janine,Manhattan,Chelsea,40.74599,-74.00253000000001,Entire home/apt,760,2,7,2019-06-22,0.08,1,361
+30193147,*NO GUEST SERVICE FEE* Beekman Tower Studio Suite  #2,205031545,Red Awning,Manhattan,Midtown,40.75408,-73.96568,Entire home/apt,675,28,0,,,49,254
+2151259,Superbowl Studio Upper West Side,10263977,A,Manhattan,Upper West Side,40.79752,-73.96298,Entire home/apt,750,3,0,,,1,0
+30019462,Beautiful Times Square Apt. Heart of Manhattan!,219848970,Javier,Manhattan,Hell's Kitchen,40.76203,-73.99353,Entire home/apt,600,3,0,,,2,17
+27237563,*NO GUEST SERVICE FEE* Studio Suite w/ Convenient Midtown Location,205031545,Red Awning,Manhattan,Midtown,40.75402,-73.9651,Entire home/apt,699,3,19,2019-06-11,2.45,49,204
+28426648,Minimalist Loft  Luxury in Soho,214416012,James,Manhattan,SoHo,40.72345,-73.99943,Entire home/apt,800,2,36,2019-07-01,3.88,1,90
+31052910,GORGEOUS PRIME SOHO 3 BEDROOMS PENTHOUSE,163035332,Pirin,Manhattan,SoHo,40.72267,-74.00334000000001,Entire home/apt,649,2,17,2019-07-01,2.59,3,281
+8292864,Charming East Village Apartment,19194060,Ryan,Manhattan,East Village,40.7241,-73.97991999999999,Entire home/apt,600,3,0,,,1,0
+4623622,Victorian with Stunning Views of NYC Harbor,22506665,William,Staten Island,St. George,40.64571,-74.07835,Entire home/apt,1000,1,0,,,1,364
+35569456,"2 BR Modern Apt, Extra Lofted Bed, BK Heights",267621090,Shameika,Brooklyn,Brooklyn Heights,40.69934,-73.99635,Entire home/apt,600,3,4,2019-07-06,4.0,1,323
+2210088,SUPER BOWL 2014 in TRENDY CHELSEA!,11273539,Julia,Manhattan,Chelsea,40.74798,-74.00314,Entire home/apt,900,1,0,,,1,0
+15205915,2BdrmPRESIDENTIAL Luxury CONDO In the Heart of NYC,96098402,Wynpoints,Manhattan,Midtown,40.7521,-73.972,Private room,799,4,3,2017-01-13,0.09,12,365
+34177117,Sonder | The Biltmore | 1BR,219517861,Sonder (NYC),Manhattan,Theater District,40.76118,-73.98635,Entire home/apt,699,29,0,,,327,365
+28536172,NYC Townhouse & Private Roof Deck,189336520,Martha,Manhattan,Upper East Side,40.77141,-73.95658,Entire home/apt,1000,4,16,2019-06-15,1.97,1,66
+35962803,Best Looking Townhouse in Brooklyn-GQ Magazine,5099333,Robert,Brooklyn,Fort Greene,40.68893,-73.97015999999999,Entire home/apt,800,3,0,,,1,37
+31389656,NYC LUXURY3 BEDROOMS IN MIDTOWN EAST& GYM& BALCONY,170372974,Inbal,Manhattan,Murray Hill,40.74579,-73.9726,Entire home/apt,599,4,11,2019-06-30,2.23,1,140
+6209994,4500 SQ FT Quiet Brooklyn Loft for Shoots & Events,319077,Shell,Brooklyn,Clinton Hill,40.68556,-73.96238000000001,Entire home/apt,750,1,15,2019-05-19,0.34,4,364
+15260962,Luxury 2BR Penthouse in the hearth of Soho (Nyc),26830685,Gaia&Pietro,Manhattan,SoHo,40.72575,-74.00128000000001,Entire home/apt,850,3,32,2019-06-24,1.04,1,262
+31884652,Heart of Time Square w/ Spectacular View  3BR 2BA,235774051,Satoh,Manhattan,Theater District,40.759170000000005,-73.98246,Entire home/apt,519,2,10,2019-06-26,1.86,1,165
+18737594,Brownstone in Clinton Hill Brooklyn,45763784,Julio,Brooklyn,Clinton Hill,40.68499,-73.96524000000001,Entire home/apt,825,3,2,2018-09-28,0.19,2,44
+32463707,Not too late! Great place in Chelsea,58483,Deni,Manhattan,West Village,40.73988,-74.00356,Entire home/apt,500,2,0,,,1,0
+30253236,SedaOn2 Dance Studio,140862407,Angelie,Bronx,Westchester Square,40.84378,-73.84469,Entire home/apt,670,1,2,2019-03-31,0.34,1,178
+21684804,Charming duplex in east village with a balcony,12080664,Josephine,Manhattan,East Village,40.732,-73.98706,Entire home/apt,500,6,0,,,1,0
+5146173,*Designer West Village Dream Home*,26606802,Christina,Manhattan,West Village,40.73451,-74.00746,Entire home/apt,510,3,12,2016-10-23,0.24,1,364
+18506292,Ultra Lux Central Park/ Columbus Circle 2 bedroom,10605984,Gab,Manhattan,Upper West Side,40.76798,-73.98356,Entire home/apt,615,5,46,2019-06-18,1.78,1,282
+30193036,*NO GUEST SERVICE FEE* Beekman Tower Studio Suite  #11,205031545,Red Awning,Manhattan,Midtown,40.75404,-73.9671,Entire home/apt,675,28,0,,,49,241
+27237583,*NO GUEST SERVICE FEE* Beekman Tower Premium One Bedroom Suite,205031545,Red Awning,Manhattan,Midtown,40.75402,-73.96566999999999,Entire home/apt,737,3,1,2019-02-18,0.21,49,222
+10574909,Grand Loft in Prime Williamsburg,1802807,Lily,Brooklyn,Williamsburg,40.71412,-73.95895,Entire home/apt,600,30,7,2019-05-17,0.17,2,67
+14483469,Sun Soaked 3-Bedroom w/ private roof deck,19928013,Blake,Manhattan,Greenwich Village,40.73389,-73.99335,Entire home/apt,800,1,0,,,1,0
+2447298,Soho loft with everything,5165749,Ben,Manhattan,SoHo,40.72512,-74.00024,Entire home/apt,650,5,0,,,2,83
+32238730,Sonder | Stock Exchange | Original 3BR + Lounge,219517861,Sonder (NYC),Manhattan,Financial District,40.70785,-74.01239,Entire home/apt,505,2,7,2019-06-14,1.79,327,275
+22139766,Luxurious Brooklyn Heights Duplex with Terrasse,88801066,Crina,Brooklyn,Brooklyn Heights,40.6936,-73.9935,Entire home/apt,647,5,4,2019-04-20,0.25,1,166
+3270809,Artist Loft in Lower East Side with Roof,14289427,Francesca,Manhattan,Chinatown,40.71613,-73.99266,Entire home/apt,500,4,6,2018-12-12,0.18,3,341
+30464266,Beautiful Loft in the Heart of Nolita,14413778,Allegra,Manhattan,Nolita,40.7233,-73.99463,Entire home/apt,800,3,0,,,2,0
+1803165,Huuuge Sunny Central Park REAL 2 bedroom 1.5 baths,9453400,Lo,Manhattan,Midtown,40.76391,-73.9782,Entire home/apt,799,6,40,2018-09-01,0.58,1,365
+10089727,"St Regis Hotel, NYC Luxury Hotel Rooms by Owners",51772392,Mark,Manhattan,Midtown,40.76039,-73.9736,Private room,587,1,3,2018-10-03,0.16,1,365
+27237604,*NO GUEST SERVICE FEE* Luxury Midtown One Bedroom Suite with Kitchen,205031545,Red Awning,Manhattan,Midtown,40.75294,-73.96731,Entire home/apt,737,3,2,2019-06-07,0.4,49,235
+28654606,Warm Duplex Townhouse,191849342,Joseph,Brooklyn,Crown Heights,40.67177,-73.95334,Entire home/apt,500,4,9,2019-06-22,1.32,1,247
+35229657,Center of NYC*Dream in your dream Apt*6beds,135223584,Lina & Josh,Manhattan,Hell's Kitchen,40.75654,-73.99425,Entire home/apt,920,1,0,,,1,180
+32561334,94TH STREET BIGGEST 1BR SUITE WITH DOORMAN-GYM,123745971,Especial,Manhattan,Upper East Side,40.78216,-73.94841,Private room,540,2,0,,,6,351
+12496037,1/2 block to Central Park - W 84th Street,23870466,Susan,Manhattan,Upper West Side,40.78475,-73.9717,Entire home/apt,650,30,3,2018-10-15,0.09,1,137
+9263457,1 bed/bath w/ Cali King bed- duplex,30637963,Deena,Manhattan,Upper West Side,40.79355,-73.96641,Private room,800,5,0,,,1,0
+21963398,4BR 2 Bath Williamsburg Apt with Private Roof,11310081,Chandler,Brooklyn,Williamsburg,40.71204,-73.95245,Entire home/apt,650,2,1,2019-01-01,0.16,1,0
+7816449,Dreamlike Soho loft and rooftop,1317360,John,Manhattan,SoHo,40.722190000000005,-74.0014,Entire home/apt,500,7,44,2017-09-25,0.94,2,365
+19114014,"Large, Private Carriage House in West Village",683230,Thomas,Manhattan,West Village,40.73444,-73.99967,Private room,950,3,36,2019-07-01,1.45,3,237
+35075812,Private Room in 2BD near Grand Central,52319188,Nick,Manhattan,Murray Hill,40.7472,-73.97278,Private room,500,2,0,,,1,43
+7192809,Luxury 2200sf Two Bedroom Loft w/ Private Elevator,37668524,Brian,Manhattan,Chelsea,40.73888,-73.99897,Entire home/apt,500,3,11,2016-11-26,0.23,1,2
+60164,"Beautiful, elegant 3 bed SOHO loft",289653,Harrison,Manhattan,SoHo,40.72003,-74.00262,Entire home/apt,500,4,94,2019-06-23,0.99,1,329
+33513897,Coming soon: stunning Upper West Side apartment,252545388,Joseph,Manhattan,Upper West Side,40.77112,-73.98964000000001,Entire home/apt,1000,31,0,,,1,103
+27551807,The St Marks: A large 7 bedroom 15 mins to Manhtan,5589082,Jenn & JJ,Brooklyn,Crown Heights,40.67578,-73.94159,Entire home/apt,689,2,18,2019-05-23,1.61,1,340
+2185842,1BR Superbowl rental Hells Kitchen,6910298,Anna,Manhattan,Hell's Kitchen,40.76,-73.99009000000001,Entire home/apt,850,1,0,,,1,0
+35515733,"Family-Friendly 3BR Luxury in Tribeca, (1900 sqft)",2116342,David,Manhattan,Civic Center,40.71625,-74.00316,Entire home/apt,950,3,0,,,1,69
+2003807,UWS MANHATTAN APT FOR SUPERBOWL WE,10317189,Edouard,Manhattan,Upper West Side,40.79321,-73.9694,Entire home/apt,1000,1,0,,,1,0
+34036047,Harlem Time Capsule,256998898,Hank,Manhattan,Harlem,40.80483,-73.95553000000001,Entire home/apt,550,1,0,,,3,365
+21649171,Spacious 3-Bedroom Bushwick Duplex,77904836,Yvette,Brooklyn,Bushwick,40.69168,-73.91453,Entire home/apt,500,5,1,2018-01-01,0.05,1,0
+7048418,3BR/1 Ba in TriBeCa w/ outdoor deck,36962150,Nick,Manhattan,Tribeca,40.71845,-74.01183,Entire home/apt,500,1,0,,,1,0
+30193154,*NO GUEST SERVICE FEE* Beekman Tower Studio Suite  #9,205031545,Red Awning,Manhattan,Midtown,40.75439,-73.96647,Entire home/apt,675,28,4,2019-05-26,0.63,49,253
+7310835,SoHo 2 Bedroom 2 Full Bath with Private Terrace,3390947,Yulia,Manhattan,SoHo,40.72268,-74.00269,Entire home/apt,650,2,24,2019-06-29,0.51,1,23
+12954498,LOFT in Chelsea,1413546,Asher,Manhattan,Chelsea,40.7453,-73.99333,Entire home/apt,700,30,1,2016-08-07,0.03,2,236
+5116726,Stunning townhouse in Park Slope,7203997,Gosia,Brooklyn,Park Slope,40.67034,-73.97511999999999,Entire home/apt,995,2,43,2019-06-13,0.82,2,328
+32089161,Newly rennovated studio space in UWS,25115746,Stephanie,Manhattan,Upper West Side,40.78757,-73.97624,Shared room,500,1,0,,,1,89
+29281407,THE HIVE // Brand New 3-Story Luxury Townhome,4874700,Eli,Brooklyn,Greenpoint,40.72549,-73.94595,Entire home/apt,975,2,0,,,1,149
+8924038,Huge Unique Two Story E.Vill Oasis,46665505,Cj,Manhattan,East Village,40.721790000000006,-73.97951,Entire home/apt,500,2,0,,,1,0
+34644063,Luxurious Smart Home in Gramercy Park,55560532,Maxim,Manhattan,Gramercy,40.73825,-73.98184,Entire home/apt,690,2,0,,,1,66
+7024342,"Custom Designed Cozy Garden Apt,",36579485,Jean&  Toney,Brooklyn,Canarsie,40.64574,-73.90781,Entire home/apt,600,7,0,,,3,365
+16268350,Cozy Bedstuy Brownstone,104626152,Nikki,Brooklyn,Bedford-Stuyvesant,40.68893,-73.95354,Entire home/apt,525,2,1,2016-12-07,0.03,4,189
+27237510,"*NO GUEST SERVICE FEE* Studio Suite w/ Queen Bed, Close to 51st St Subway",205031545,Red Awning,Manhattan,Midtown,40.75299,-73.96659,Entire home/apt,699,3,8,2019-05-19,1.21,49,204
+16437326,1 Bedroom Condo/Kitchen Wyndham Midtown 45 Resort*,69545883,Chayla,Manhattan,Midtown,40.75183,-73.97336999999999,Private room,599,3,0,,,12,365
+11257690,Luxury 2200ft² 4Bed in East Village,29182025,Jonty,Manhattan,Gramercy,40.73268,-73.98550999999999,Entire home/apt,700,5,87,2019-06-22,2.12,1,266
+22193650,Gramercy Getaway,83637,Liana,Manhattan,Gramercy,40.738040000000005,-73.98503000000001,Entire home/apt,500,28,5,2018-04-08,0.27,1,173
+6165564,Large room in newly renovated apt,30906910,Yuriy,Brooklyn,Bedford-Stuyvesant,40.6874,-73.94339000000001,Private room,750,1,0,,,1,0
+2150328,"SUPERBOWL!! 2 Bd, 2 Ba w Roof Deck!",10974237,Abby,Manhattan,East Village,40.72767,-73.98825,Entire home/apt,850,1,0,,,1,0
+2186138,Superbowl - NYC Apartment,11147328,Ankur,Manhattan,Midtown,40.75764,-73.96826999999999,Entire home/apt,950,1,0,,,1,0
+2017012,W Village Luxury Apt. (Super Bowl),10373126,Sirous,Manhattan,West Village,40.73967,-74.00933,Entire home/apt,850,3,0,,,1,0
+24554027,"Sunlit Room in Prospect Heights, Brooklyn",24587292,Rania,Brooklyn,Crown Heights,40.67652,-73.96198000000001,Private room,974,7,0,,,2,0
+19963733,"Prewar duplex, 3 bedrooms, minutes from everything",93355703,Katherine,Brooklyn,Brooklyn Heights,40.69677,-73.99599,Entire home/apt,585,3,10,2019-02-18,0.42,1,225
+13109326,New York City Apt. w/ Incredible View of Manhattan,72874879,James,Brooklyn,Park Slope,40.67202,-73.97131,Entire home/apt,700,7,0,,,1,0
+35233998,"Spacious & Bright 3BRs Near Subways, Parks, Shops",146858939,Angela,Brooklyn,Cobble Hill,40.69041,-73.99776999999999,Entire home/apt,599,1,2,2019-06-16,2.0,1,39
+13025960,Bright & Cozy Furnitured 4 Sublet,71948176,Cristian,Brooklyn,Bedford-Stuyvesant,40.68917,-73.95528,Private room,1000,1,0,,,1,0
+35198287,Light-filled Williamsburg Loft,24643940,Lucy,Brooklyn,Williamsburg,40.70726,-73.96656999999999,Entire home/apt,550,2,2,2019-07-05,2.0,1,81
+32235802,Stable Room at Incentra Village Hotel,241889662,Incentra,Manhattan,West Village,40.73742,-74.00484,Private room,999,1,1,2019-04-24,0.39,5,310
+6558125,Amazing apartment with great views,28305098,Bishal,Manhattan,Chelsea,40.745740000000005,-73.99226,Entire home/apt,900,3,13,2016-01-20,0.26,1,24
+27237549,*NO GUEST SERVICE FEE* Luxury Studio Suite in Excellent Midtown Location,205031545,Red Awning,Manhattan,Midtown,40.75442,-73.96696,Entire home/apt,699,3,8,2019-06-16,1.18,49,204
+20604857,Empire St View Luxury 3BR 2BA Penthouse BalconyGym,40042311,Antonya,Manhattan,Murray Hill,40.74699,-73.9777,Entire home/apt,799,5,1,2018-07-28,0.09,1,359
+16098020,1 Bdrm PRESIDENTIAL RESERVE at Wyndham Midtown 45,69545883,Chayla,Manhattan,Midtown,40.75162,-73.9732,Private room,649,3,1,2016-12-09,0.03,12,365
+34813344,AWESOME LOCATION!! NEWLY REMODELED APARTMENT!!,262434396,Angeline,Brooklyn,Williamsburg,40.71597,-73.96106999999999,Entire home/apt,650,3,1,2019-06-17,1.0,1,352
+14683983,RATED ★★★★★ IN THIS 2 BEDROOM PRESIDENTIAL SUITE,64065593,ResortShare5,Manhattan,Midtown,40.75294,-73.9733,Entire home/apt,672,2,23,2019-05-15,0.87,13,268
+15206157,1Bdrm DELUXE Fully Renovated CONDO Wyndham Midtown,96098402,Wynpoints,Manhattan,Midtown,40.75331,-73.9733,Private room,599,3,8,2017-01-01,0.24,12,365
+4854552,Apartment Downtown New York ,24973819,Wen,Manhattan,Stuyvesant Town,40.73001,-73.97579,Private room,600,1,0,,,1,0
+6939638,Heart of Tribeca next to everything,36307255,Josh,Manhattan,Tribeca,40.715,-74.0094,Entire home/apt,700,1,8,2016-01-03,0.16,1,0
+31534613,New Oceanside home just 5 houses from beach side B,37136163,Renzo,Manhattan,Midtown,40.75164,-73.98042,Entire home/apt,600,7,0,,,1,281
+15230938,Bluebird Lavish 2-BR Apt Within Mile of Times Sq.,95459395,Bluebird,Manhattan,Hell's Kitchen,40.7602,-73.998,Entire home/apt,748,30,0,,,18,185
+35882372,"Welcome to the best area of Williamsburg, NY",20536889,Edwin,Brooklyn,Williamsburg,40.71131,-73.96562,Entire home/apt,500,4,0,,,1,358
+14655908,"Historic Brownstone (3Flrs). Pvt Deck, Garden,Park",89724008,Richard,Manhattan,Harlem,40.81919,-73.9443,Entire home/apt,750,3,0,,,1,87
+36186719,Private Bedroom in the Heart of Chelsea!,268920555,Terrence Jake,Manhattan,Chelsea,40.74531,-73.99454,Private room,999,30,0,,,1,270
+2022126,Midtown Manhattan Apt,10392717,Rick,Manhattan,Midtown,40.74897,-73.98265,Private room,500,5,0,,,1,0
+12070965,Downtown style in the Bronx,64678583,Mark,Bronx,Mott Haven,40.8098,-73.92149,Private room,500,10,0,,,1,358
+1039983,Tribeca Loft w/ Private Elevator,273174,Jon,Manhattan,Tribeca,40.72008,-74.0043,Entire home/apt,1000,1,25,2019-06-22,0.36,3,37
+9464318,Huge NYC 4BR Condo ByD'subwaySlp 12,48890727,Ruth,Brooklyn,Carroll Gardens,40.679390000000005,-73.99598,Entire home/apt,525,4,11,2018-10-09,0.28,1,159
+15204878,PRESIDENTIAL Condo 1 BDRM Wyndham Midtown 45 NYC,96098402,Wynpoints,Manhattan,Midtown,40.75362,-73.97158,Private room,749,2,5,2016-12-31,0.15,12,365
+2163602,Upper West Side elegance. Riverside,11039974,Poppi,Manhattan,Upper West Side,40.77874,-73.98437,Entire home/apt,599,1,5,2016-08-25,0.14,2,0
+22152785,Spacious & Sophisticated in Chelsea,8456422,Abee,Manhattan,Chelsea,40.74009,-73.99608,Entire home/apt,625,2,10,2018-12-27,0.59,1,0
+2135766,"Super Bowl, 2 bdrm, UWS apartment ",4074918,Julie,Manhattan,Upper West Side,40.79478,-73.97474,Entire home/apt,900,1,0,,,1,0
+4678742,2 Bedroom West Village Manhattan,24195790,Patrick,Manhattan,Greenwich Village,40.73444,-73.99761,Entire home/apt,600,1,0,,,1,0
+30193432,*NO GUEST SERVICE FEE* Beekman Tower One Bedroom Suite  #7,205031545,Red Awning,Manhattan,Midtown,40.75264,-73.96543,Entire home/apt,714,28,0,,,49,257
+23894929,Downtown Loft Location w/ Skyline View & Studio,3201625,J,Manhattan,Chinatown,40.71403,-73.99076,Entire home/apt,1000,1,2,2018-12-18,0.25,1,365
+24677926,Stylish & Tranquil East Village Three Bedroom,11305249,Eric,Manhattan,East Village,40.724990000000005,-73.98867,Entire home/apt,650,2,41,2019-05-17,2.83,1,126
+11920660,Brightly Skylit 3 Bedroom Soho Loft,62316222,C E,Manhattan,SoHo,40.72064,-73.99956999999999,Entire home/apt,595,5,51,2019-06-06,1.29,1,347
+33947095,Central Park West Private Room,26910600,Rachel,Manhattan,Upper West Side,40.79179,-73.96623000000001,Private room,500,1,1,2019-05-09,0.49,1,90
+2060768,West Village Apt steps to Path,10547610,Raj,Manhattan,West Village,40.73246,-74.00854,Entire home/apt,800,1,0,,,1,0
+11568026,Beautiful Tribeca Loft,5333348,Francesco & Olivia,Manhattan,Tribeca,40.71526,-74.01044,Entire home/apt,500,3,0,,,1,0
+690934,"LEGAL PARK SLOPE 5 BR, ROOF TERRACES for 14 PEOPLE",570988,Yves,Brooklyn,Park Slope,40.68305,-73.97853,Entire home/apt,550,4,173,2019-07-01,2.12,1,258
+2540173,Elegant Triplex Townhouse,7821383,Gary,Brooklyn,Prospect Heights,40.67454,-73.96803,Entire home/apt,550,1,24,2017-02-19,0.38,1,0
+14221071,Two bedroom near Grand Central with a view!!,7408622,Jerome,Manhattan,Midtown,40.75083,-73.97151,Entire home/apt,700,5,23,2019-05-08,0.68,1,179
+33994677,Elegant Villa in the Heart of Manhattan!,221213143,David,Manhattan,Kips Bay,40.7431,-73.98137,Entire home/apt,790,1,4,2019-06-12,1.82,9,298
+18595831,"The Locals House // Best Location, Nicest Home",129133511,Michael,Queens,Rockaway Beach,40.5889,-73.81585,Entire home/apt,545,1,31,2019-07-07,1.2,1,224
+25190757,Private Quite 2BDRM Oasis Best Neighborhood in NYC,30242632,Lindsay,Manhattan,Chelsea,40.74123,-74.00548,Entire home/apt,600,2,44,2019-06-23,3.37,1,134
+4800921,"Comfy 4br, 2 full baths, 3 fls, 2 living rooms",1559494,Hill,Brooklyn,Williamsburg,40.71262,-73.95026,Entire home/apt,600,2,20,2019-06-23,3.3,1,283
+1264695,Classy Penthouse with Amazing View!,2737373,Ray,Manhattan,Chelsea,40.74984,-73.99481999999999,Entire home/apt,595,3,106,2019-06-18,1.51,1,247
+34504058,♕ Historic Modern Designer SoHo Sun Drenched Home!,260420558,Shelesa,Manhattan,SoHo,40.71988,-74.00062,Entire home/apt,620,2,4,2019-06-21,2.22,1,169
+34790450,Village: Cozy Spacious Condo.,24064346,Gabriel,Manhattan,West Village,40.73458,-74.00361,Entire home/apt,500,3,11,2019-07-07,6.73,1,318
+1864061,"2 Br Condo: Elegant, Amazing Views!",9720494,Coats,Manhattan,Hell's Kitchen,40.75562,-73.99736,Entire home/apt,525,5,42,2019-05-25,0.61,1,80
+9453653,Beautiful penthouse in Williamsburg,48988714,Luigi,Brooklyn,Williamsburg,40.71174,-73.95544,Entire home/apt,531,1,119,2019-06-23,2.71,3,353
+3139749,Room in Manhattan=15 min to TimesSq,7580038,Jack Andrew,Manhattan,Harlem,40.82584,-73.94673,Private room,500,1,3,2014-09-27,0.05,3,363
+30193201,*NO GUEST SERVICE FEE* Beekman Tower Studio Suite  #8,205031545,Red Awning,Manhattan,Midtown,40.75371,-73.96515,Entire home/apt,675,28,0,,,49,251
+34483434,Luxuriate in Captivating Beauty of Central Park,260425153,Park Lane,Manhattan,Midtown,40.76476,-73.9762,Private room,500,1,0,,,14,362
+28100333,Respectful Beautiful Harlem Room,212263525,SamariSankofa,Manhattan,Harlem,40.81047,-73.94041999999999,Private room,848,1,19,2019-05-26,1.89,3,355
+2291943,SuperBowl Weekend Rental! 3 BR/1ba,11708656,Justin,Manhattan,Upper East Side,40.77477,-73.95503000000001,Entire home/apt,1000,1,0,,,1,0
+32327466,Lahore Suite at Incentra Village House,241889662,Incentra,Manhattan,West Village,40.73897,-74.00346,Private room,999,1,3,2019-05-19,0.7,5,341
+23744773,Central Park West Hotel,172544686,Vijay,Manhattan,Upper West Side,40.77706,-73.97788,Private room,800,1,0,,,4,269
+13601777,Planta Baja Studio,68890,Paula,Brooklyn,Bedford-Stuyvesant,40.68786,-73.95688,Entire home/apt,1000,1,10,2018-06-14,0.28,3,365
+30499163,Luxury midtown east apartment,57302064,Olivia,Manhattan,Midtown,40.75198,-73.9707,Entire home/apt,595,2,3,2019-05-17,0.47,1,55
+8738438,Harlem Haven - Stunning Duplex,3784682,Trace,Manhattan,Harlem,40.80745,-73.9418,Entire home/apt,650,2,1,2017-03-05,0.04,1,0
+21967259,Luxury Chelsea Condo on the High Line park,160376922,Alesia,Manhattan,Chelsea,40.74918,-74.00369,Entire home/apt,800,1,11,2018-08-22,0.56,1,0
+11105968,5*****Prime W/ Private Outdoor 5177,16098958,Jeremy & Laura,Manhattan,West Village,40.73198,-74.00239,Entire home/apt,550,30,0,,,96,352
+6937897,Tasteful Duplex in Gramercy Park,36375657,John,Manhattan,Kips Bay,40.73873,-73.98153,Shared room,800,30,1,2015-09-14,0.02,1,0
+7823495,Elegant Oasis - Private Roof Terrace,11898556,Ola,Manhattan,Chelsea,40.7414,-73.99815,Entire home/apt,800,30,22,2019-06-08,0.48,1,266
+35350827,4BD Newly Renovated Home in NY- TIME SQUARE,16107580,Aden,Manhattan,Hell's Kitchen,40.7616,-73.98935999999999,Entire home/apt,700,4,2,2019-06-22,2.0,1,130
+15497229,Bluebird Hell's Kitchen 1-BR + Killer City Views,95459395,Bluebird,Manhattan,Hell's Kitchen,40.76188,-73.99806,Entire home/apt,534,30,0,,,18,365
+19322515,20m to Manhattan - 2 Floors + Express Subway,98705818,Mari,Brooklyn,Crown Heights,40.67476,-73.93016,Entire home/apt,550,1,6,2019-05-22,0.25,1,249
+27237526,*NO GUEST SERVICE FEE* 1 Bed Studio Suite - Close to UN Headquarters,205031545,Red Awning,Manhattan,Midtown,40.75397,-73.96696999999999,Entire home/apt,699,3,5,2019-04-29,0.48,49,204
+33580008,Sonder | Stock Exchange | Calming 3BR + Laundry,219517861,Sonder (NYC),Manhattan,Financial District,40.7075,-74.01179,Entire home/apt,505,2,8,2019-06-22,3.58,327,263
+36087720,PRIVATE TIMES SQUARE TOWNHOUSE,269235140,Ronnie,Manhattan,Hell's Kitchen,40.76437,-73.99044,Entire home/apt,560,1,0,,,1,32
+27237577,*NO GUEST SERVICE FEE* One Bedroom Suite with Free Continental Breakfast Daily,205031545,Red Awning,Manhattan,Midtown,40.75224,-73.96651999999999,Entire home/apt,737,3,1,2019-02-17,0.21,49,200
+29565064,#1,217293060,Mohan,Manhattan,Greenwich Village,40.73432,-73.99686,Entire home/apt,600,31,0,,,4,328
+16120840,Luxurious studio - West 57th Street Club by Hilton,8572778,Betsy,Manhattan,Midtown,40.76409,-73.9791,Entire home/apt,500,2,4,2018-04-21,0.13,1,91
+9776054,Christmas and New Years in NYC,22098830,Alfred,Brooklyn,Bedford-Stuyvesant,40.68581,-73.94689,Entire home/apt,800,3,33,2016-06-12,0.76,1,178
+89427,The Brooklyn Waverly,116599,Sahr,Brooklyn,Clinton Hill,40.68613,-73.96536,Entire home/apt,650,5,0,,,3,365
+33267342,Spectacular Luxury Park Slope Brownstone,15101609,Rebecca,Brooklyn,Park Slope,40.67591,-73.97689,Entire home/apt,700,3,0,,,1,239
+19226980,Brownstone Living,33365473,Paul,Brooklyn,Bedford-Stuyvesant,40.6809,-73.94270999999999,Entire home/apt,650,31,0,,,2,358
+11969727,Artistic NEW LOFT 4 br/2 bath in Times Sq,63940105,One,Manhattan,Hell's Kitchen,40.76268,-73.99235,Entire home/apt,800,3,59,2019-06-23,1.51,1,263
+30469464,THE RESIDENCES BY HILTON CLUB (Penthouse Suite),227836627,Marilynn,Manhattan,Midtown,40.76287,-73.98073000000001,Private room,699,2,0,,,1,365
+11478813,"Lovely 3 Bedroom, 2 Bath Flatiron Area Loft",60409176,C.E.,Manhattan,Flatiron District,40.73994,-73.99005,Entire home/apt,600,5,28,2019-05-26,0.71,1,338
+35881797,Luxury Hi-End Brooklyn Brownstone with backyard,269893009,Ek,Brooklyn,Bay Ridge,40.632940000000005,-74.0273,Entire home/apt,595,1,4,2019-07-07,4.0,1,57
+13294137,"Quiet, Secure, Clean and very Private Apartment",75030399,Hardy,Bronx,Williamsbridge,40.87938,-73.86349,Entire home/apt,500,2,19,2018-11-05,0.56,1,345
+10086029,West Village Duplex with Backyard!,2072706,Umang,Manhattan,West Village,40.73191,-74.00493,Entire home/apt,800,3,0,,,1,0
+26093497,Beautiful 5 bedroom+ Oasis in NYC,93752700,Bliss Beata,Brooklyn,Flatbush,40.63573,-73.96433,Entire home/apt,745,4,1,2019-01-02,0.16,1,28
+2285355,SUPER BOWL RENTAL NYC LOW PRICE,11674823,Bruce,Manhattan,Upper West Side,40.77859,-73.97964,Entire home/apt,750,1,0,,,1,0
+23370484,SHOOTS ONLY -- Large Sunny loft in Williamsburg,11844979,V,Brooklyn,Williamsburg,40.71782,-73.96318000000001,Entire home/apt,1000,1,0,,,4,179
+12812577,Superhost-Pristine 4 Bed Legal Townhouse Midtown 1,69852641,Lisa,Manhattan,Hell's Kitchen,40.763000000000005,-73.98642,Entire home/apt,1000,2,23,2019-06-09,0.7,3,240
+23771486,STYLISH / HUGE 5 BEDROOM APT ON LOWER EAST SIDE,12089291,Paul,Manhattan,Lower East Side,40.7234,-73.99032,Entire home/apt,600,2,1,2018-05-20,0.07,1,0
+20249492,2BR PH Loft and Executive Office Central Manhattan,144310942,Jacqueline,Manhattan,Flatiron District,40.74416,-73.99016999999999,Entire home/apt,600,2,41,2019-06-06,1.93,1,174
+25134894,Massive 4 bed 3 bath Loft in SoHo/Little Italy,189961241,Danny,Manhattan,Little Italy,40.71839,-73.99834,Entire home/apt,699,3,37,2019-06-28,2.92,1,170
+35128367,Magnificent Fort Greene Home- 3 Floors,11742777,Inbar,Brooklyn,Fort Greene,40.68647,-73.96959,Entire home/apt,550,2,1,2019-06-16,1.0,1,43
+34836737,Spacious Harlem Home in Manhattan!,9486614,Roberto,Manhattan,Harlem,40.81157,-73.94654,Entire home/apt,799,3,0,,,1,51
+2248580,Luxury 1 Bedroom Condo,11483903,Avril,Manhattan,Greenwich Village,40.73411,-73.99723,Entire home/apt,1000,1,0,,,1,0
+29674246,Immaculate and Bright Apartment Downtown,21610233,Britni,Manhattan,Battery Park City,40.71756,-74.01659000000001,Entire home/apt,650,7,0,,,1,12
+12404820,Perfect Neighborhood sublet,40015388,Daniel,Brooklyn,Park Slope,40.67086,-73.97847,Private room,935,1,0,,,1,0
+12560137,1BR. SugarHill. 15 Min Midtown.,51093380,Joe,Manhattan,Harlem,40.82302,-73.94476999999999,Entire home/apt,500,1,0,,,1,365
+14855614,Luxury New York City Westside Suite,92067070,Rhondella,Manhattan,Midtown,40.76419,-73.98053,Entire home/apt,500,1,5,2018-09-26,0.15,1,361
+32695489,"New Years Eve, The Manhattan Club (A268)",244746656,William,Manhattan,Midtown,40.76447,-73.9816,Entire home/apt,840,1,0,,,4,4
+35900353,Splendid 4Br 2Ba | Steps From Midtown!,268452805,Marsha & Jakob,Manhattan,Kips Bay,40.73985,-73.98074,Entire home/apt,600,3,0,,,1,355
+27398782,WeLive Wall Street -- Four Bedroom / Two Bath,159610596,WeWork,Manhattan,Financial District,40.70448,-74.00615,Entire home/apt,525,1,25,2019-07-07,2.53,6,203
+15496616,Bluebird Hells Kitchen 1-BR  Apt Near Central Park,95459395,Bluebird,Manhattan,Hell's Kitchen,40.76038,-73.99951,Entire home/apt,534,30,0,,,18,365
+999248,TriBeCa 2500 Sq Ft w/ Priv Elevator,273174,Jon,Manhattan,Tribeca,40.71927,-74.00453,Entire home/apt,575,1,447,2019-07-01,5.89,3,207
+35155176,2BEDROOM APARTMENT NY CITY,264758587,Vanessa,Brooklyn,Williamsburg,40.71986,-73.95891,Entire home/apt,500,3,3,2019-06-16,2.37,1,353
+24535740,TV-PHOTO-FILM-CINEMA-ART GALLERY-MUSIC STUDIO-LOFT,183779546,David & Javier,Brooklyn,Williamsburg,40.71824,-73.95175,Entire home/apt,1000,1,9,2019-04-27,0.66,1,88
+2563997,Garden Duplex in Clinton Hill,13067214,Dominick,Brooklyn,Clinton Hill,40.6842,-73.9636,Entire home/apt,595,4,22,2019-01-01,0.39,1,0
+9810235,Tribeca Loft,50539403,Yuri,Manhattan,Tribeca,40.71819,-74.00833,Entire home/apt,500,4,0,,,1,0
+16870827,Private Lrg bedroom in a convrtable 2 Bed Apt.,79089979,Clell,Brooklyn,Bay Ridge,40.63845,-74.02649,Private room,800,1,43,2019-06-27,1.64,1,55
+34981466,Lex Penthouse with Private Roof Top Terrace,263564835,Steffan Per,Manhattan,Midtown,40.74383,-73.98286,Private room,975,30,0,,,1,363
+28779428,3Bedroom+1.5bath Loft apartment,211549023,Studioplus,Manhattan,Midtown,40.74823,-73.98697,Entire home/apt,500,2,14,2019-06-17,2.07,13,272
+29456271,Sophisticated Artist Loft sale! Reg. $525.,6573459,Shelli,Manhattan,Financial District,40.71086,-74.00721,Entire home/apt,525,2,3,2019-05-24,0.36,1,158
+21794873,Exclusive  & Luxurious 4BR/4Bath Townhouse,72205446,Trish,Manhattan,Murray Hill,40.74866,-73.97846,Entire home/apt,1000,3,10,2019-06-03,2.07,1,310
+11130697,Luxury New York Apartment,57843472,David,Manhattan,Hell's Kitchen,40.76198,-73.99739,Private room,550,1,0,,,1,0
+19943440,Charming 2B/2BR in the heart of the West Village,141335210,Eric,Manhattan,West Village,40.73447,-74.00265999999999,Entire home/apt,599,1,0,,,1,0
+6969473,SOHO GEM 2750 SQ FT,30247261,Nima,Manhattan,Little Italy,40.72039,-73.99683,Entire home/apt,999,7,1,2015-12-27,0.02,1,0
+18094212,Beautiful 3000-Square-Ft Brownstone in Cobble Hill,121274,Joanna,Brooklyn,Cobble Hill,40.68673,-73.99653,Entire home/apt,700,4,4,2019-01-23,0.21,1,15
+2425871,Newly Built Full Bedroom In TriBeCa,12399023,Ankush,Manhattan,Tribeca,40.7159,-74.00834,Private room,500,1,0,,,1,0
+15928889,Cozy private room in a new building in Bushwick,103273584,Kevin,Brooklyn,Bushwick,40.69283,-73.92702,Private room,900,15,3,2018-09-26,0.09,1,83
+32137481,Greenwich Village Luxury Loft,10476957,Gina & Alex,Manhattan,Greenwich Village,40.7312,-74.00025,Entire home/apt,1000,2,8,2019-05-12,1.59,1,273
+15218066,1Bdrm Deluxe WYNDHAM MIDTOWN 45*Great Location NYC,96098402,Wynpoints,Manhattan,Midtown,40.75388,-73.97308000000001,Private room,799,3,2,2016-11-05,0.06,12,365
+26665387,3 Level Loft♦♦♦Private Terrace W/views ♦♦♦Flatiron,158687034,Eric,Manhattan,Midtown,40.74493,-73.9824,Entire home/apt,500,5,39,2019-06-30,3.24,1,114
+20305160,Beach House Retreat. 15 minutes from Manhattan.,1715301,Mark,Staten Island,Fort Wadsworth,40.59546,-74.06092,Entire home/apt,800,7,0,,,3,365
+25340516,Garden Duplex close to Central Park,136454672,Fabiana,Manhattan,Upper East Side,40.76516,-73.96562,Entire home/apt,1000,3,10,2019-06-08,0.79,1,84
+2856770,Family Friendly 3 bedroom 2 bath w. Washer/Dryer,14565422,Janelle,Manhattan,East Harlem,40.78587,-73.94764,Entire home/apt,650,2,67,2019-06-23,1.76,2,283
+16251345,Sunny Cobble Hill 2 BR+ Cozy & Ecletic Brownstone,1468716,Peggy,Brooklyn,Cobble Hill,40.68631,-73.99624,Entire home/apt,700,4,3,2019-04-17,0.24,1,89
+34543610,"Designer luxurious 3Bed/2Bath Apt w/Gym, Doorman",232596712,Jessica,Manhattan,Upper West Side,40.77667,-73.97945,Entire home/apt,580,30,0,,,6,337
+34305085,Splendid LOFT 6BED/3BATH - steps to Central PARK,258249038,Joseph Luis,Manhattan,Upper West Side,40.79641,-73.96253,Entire home/apt,589,5,4,2019-06-26,4.0,1,109
+10123090,Midtown Manhattan steps from 5thAve,51948055,Yvonne,Manhattan,Midtown,40.76372,-73.97691999999999,Entire home/apt,500,29,5,2016-09-26,0.13,1,88
+21254718,Bright Comfy Apartment Steps to Columbia & Barnard,56197328,Paul,Manhattan,Morningside Heights,40.80647,-73.96576,Entire home/apt,573,3,1,2018-10-18,0.11,2,0
+36303421,3 Bedroom Apartment in Upper West Side Manhattan,217362657,Josua,Manhattan,Upper West Side,40.79469,-73.96687,Entire home/apt,520,30,0,,,1,310
+19717109,Great 2BD in TriBeCa,8586684,Julian,Manhattan,SoHo,40.72569,-74.00849000000001,Entire home/apt,700,2,1,2017-07-08,0.04,1,0
+18271282,Gimme Shelter,126311719,Kricket,Manhattan,SoHo,40.7239,-73.99678,Entire home/apt,850,30,7,2018-12-01,0.26,1,365
+22830508,Williamsburg Garden Oasis,168159627,Holly,Brooklyn,Williamsburg,40.72017,-73.95976999999999,Entire home/apt,600,2,26,2019-05-09,1.59,1,253
+2220959,XTRA LARGE 1 Bedroom Gramercy Apt,11330638,Lindsay,Manhattan,Kips Bay,40.73879,-73.98226,Entire home/apt,749,1,0,,,1,0
+34757500,UN Artists Full Floor Loft - 3 Bedroom/2 Bath,101109383,Will AND Kelly,Manhattan,Midtown,40.75487,-73.96898,Entire home/apt,500,3,1,2019-06-08,1.0,1,257
+34127215,Beautiful Williamsburg Townhouse 4 bed / 2.5 bath,257685807,Alejandra,Brooklyn,Williamsburg,40.70927,-73.96149,Entire home/apt,650,2,0,,,1,157
+30815183,Location Location Location !!,230516915,C,Manhattan,Upper East Side,40.78013,-73.96030999999999,Entire home/apt,590,14,0,,,1,358
+19880329,Charming Townhouse duplex in Chelsea,6861839,Eli,Manhattan,Chelsea,40.74637,-74.00263000000001,Entire home/apt,500,3,1,2017-12-29,0.05,1,0
+12398308,Huge family friendly loft in Soho,14136274,Stacey,Manhattan,SoHo,40.7244,-74.00681,Entire home/apt,500,2,0,,,1,0
+2158171,Luxury NYC Studio for Super Bowl 48,11012889,Judy,Manhattan,Financial District,40.70451,-74.00671,Entire home/apt,575,1,0,,,1,0
+2037951,Modern West Village Apartment,4191006,Nick,Manhattan,West Village,40.73858,-74.00875,Private room,500,365,0,,,1,0
+35023464,4 Bedrooms 4 Baths at Midtown East Manhattan,146005201,Aaron Paul,Manhattan,Midtown,40.75821,-73.96313,Entire home/apt,650,30,0,,,1,310
+27237631,*NO GUEST SERVICE FEE* Beekman Tower One Bedroom Suite with Queen Bed & Free Wifi,205031545,Red Awning,Manhattan,Midtown,40.75238,-73.96653,Entire home/apt,737,3,2,2019-05-23,0.71,49,224
+16487823,2 Double Bed Hotel Style WYNDHAM MIDTOWN 45 *NYC*,69545883,Chayla,Manhattan,Midtown,40.75327,-73.97175,Private room,599,3,2,2017-05-27,0.07,12,365
+32327326,Tabor Room at Incentra Village Hotel,241889662,Incentra,Manhattan,West Village,40.73697,-74.00343000000001,Private room,999,1,2,2019-05-26,0.59,5,334
+10246479,The St. Johns: A 5-Bedroom Townhouse Near the Park,22693737,Estee,Brooklyn,Crown Heights,40.67146,-73.94377,Entire home/apt,500,30,96,2019-06-23,2.38,1,339
+35576863,JAVITS Beautiful Stay for your NYC Vacation *****,83819376,Ryan & Mary,Manhattan,Hell's Kitchen,40.75438,-73.99378,Entire home/apt,843,1,4,2019-07-04,4.0,1,358
+8029217,MASSIVE UNION SQ LOFT - Labor Day,36640518,Michelle,Manhattan,Chelsea,40.737,-73.99576,Entire home/apt,500,1,0,,,1,0
+30885549,Room with Balcony in trendy Williamsburg,47739675,David,Brooklyn,Williamsburg,40.71792,-73.95312,Private room,500,28,1,2018-12-31,0.16,1,89
+32168942,Luxury Modern Artist Chelsea Apartment,116089235,Noemi,Manhattan,Chelsea,40.75117,-73.99735,Entire home/apt,500,3,1,2019-05-23,0.63,1,77
+1864757,3+ Bedroom Steps to Park Avenue,194918,David,Manhattan,Upper East Side,40.77585,-73.95566,Entire home/apt,600,3,46,2019-05-27,0.67,1,210
+7838393,Stunning 2bed/2bath W'burg luxury apt w/ VIEWS!,3147660,Georgia,Brooklyn,Williamsburg,40.70985,-73.96923000000001,Entire home/apt,500,2,39,2019-05-30,0.84,1,330
+23765937,Huge Williamsburg Loft w/ kids friendly amenities.,176051903,Emerson,Brooklyn,Williamsburg,40.71832,-73.96354000000001,Entire home/apt,550,5,3,2019-07-05,0.28,1,38
+1016352,Midtown West Modern & Sunny-near Central Park,5593208,Tj,Manhattan,Hell's Kitchen,40.76777,-73.98931999999999,Entire home/apt,550,1,0,,,1,365
+11033590,West Village 2 Bed & Private Roof,16141222,Somar,Manhattan,West Village,40.7341,-74.00434,Entire home/apt,814,3,31,2019-04-11,0.78,1,353
+21933725,Manhattan Club! New Years Eve!,158445076,Jonathan,Manhattan,Midtown,40.76432,-73.98075,Entire home/apt,650,3,0,,,1,0
+21488093,Rod,128142697,Rod,Manhattan,Upper East Side,40.76719,-73.96973,Entire home/apt,750,4,0,,,2,0
+5478741,"Garden, Walk to Empire State, B'way, Subway 2 Blks",28411613,Marea,Manhattan,Midtown,40.74447,-73.98362,Entire home/apt,524,3,57,2019-06-09,1.14,1,115
+15234201,#BBS 2-BR Apartment Near Times Square *Specials*,95459395,Bluebird,Manhattan,Midtown,40.76487,-73.98238,Entire home/apt,748,30,0,,,18,364
+2253397,For Super Bowl- cool 1BDRM on UES!,11508018,Gretchen,Manhattan,Upper East Side,40.7829,-73.94721,Entire home/apt,500,3,0,,,1,0
+36145134,"HUGE Tribeca/SOHO Loft - 2,200 Square Feet!!",271863165,Johanna,Manhattan,Tribeca,40.71888,-74.00431,Private room,500,5,0,,,1,252
+36199090,ROMANTIC SUNSET YACHT CRUISE & FIREWORKS,23732730,Buddy,Bronx,City Island,40.84295,-73.78433000000001,Entire home/apt,600,1,0,,,4,44
+22790196,Stunning view in TriBeCa luxury 2 bedrooms,19981762,Chrystele,Manhattan,Battery Park City,40.7152,-74.01368000000001,Entire home/apt,980,3,0,,,1,0
+32284628,Modern Ground FL Event Space on Infamous 5th Ave,11520555,Mike,Manhattan,East Harlem,40.80129,-73.94466,Entire home/apt,612,1,15,2019-06-24,3.52,1,91
+13787558,"Dramatic Duplex, Hosted, Huge>Slp.14, Subway 50 Yd",80968378,Itzchack,Brooklyn,Carroll Gardens,40.6788,-73.99559,Entire home/apt,525,4,5,2017-05-30,0.14,1,327
+36146672,Veneta New York suite,266037277,Gianluigi,Manhattan,Hell's Kitchen,40.76687,-73.98644,Private room,561,1,0,,,1,364
+5476046,Large Duplex Near Subway! 5bdrm/2ba,10297692,Dee,Brooklyn,Crown Heights,40.67615,-73.92945,Entire home/apt,500,1,68,2019-04-27,1.41,2,313
+35379061,"3 Bed/2Bath - Fresh and clean,central Manhattan",266291058,Raul,Manhattan,Kips Bay,40.74344,-73.97821,Entire home/apt,500,2,0,,,1,264
+23041312,Sky Boasts Exquisite Studio,40811074,Dening,Manhattan,Hell's Kitchen,40.76208,-73.99932,Entire home/apt,525,3,0,,,1,0
+34975056,Beautiful Renovated Modern Townhouse,263506027,Marco,Manhattan,Midtown,40.74399,-73.98398,Entire home/apt,850,1,0,,,1,0
+16087249,1 Bdrm Deluxe located in Wyndham Midtown 45 Resort,69545883,Chayla,Manhattan,Midtown,40.75356,-73.97155,Private room,799,3,1,2016-12-06,0.03,12,365
+35833041,Luxury 5 Bedroom | 3 Bathroom South Street Seaport,268445572,Gabrielle And Steven,Manhattan,Financial District,40.70662,-74.00258000000001,Entire home/apt,750,3,0,,,1,352
+11890279,"Beautiful Flatiron 3 Bedroom, 2 Bath Loft",63407204,C,Manhattan,Flatiron District,40.73987,-73.98982,Entire home/apt,650,5,42,2019-05-24,1.07,1,335
+29052179,Entire suite with breathtaking views of NYC,145981682,Simi,Manhattan,Theater District,40.75866,-73.98535,Entire home/apt,850,1,24,2019-06-19,3.51,3,269
+18175061,New Years EVE in NY! Magnificent Private Penthouse,125320407,Sata,Queens,Briarwood,40.70678,-73.80613000000001,Entire home/apt,1000,2,5,2018-10-07,0.27,5,365
+34446327,2 BR/2.5 BTH W/ 12 FT. CEILINGS NEAR CENTRAL PARK!,140823633,Clement,Manhattan,Midtown,40.76208,-73.97171999999999,Entire home/apt,750,2,4,2019-07-03,2.22,1,263
+35413988,MidCentury Triplex near Times Square/Hells Kitchen,265439369,Yess,Manhattan,Hell's Kitchen,40.7592,-73.98894,Entire home/apt,650,3,3,2019-06-26,3.0,1,232
+32400749,Gorgeous 7BR/3.5BA Bohemian Flat - PRIME LOCATION,25318403,Bethany,Brooklyn,Williamsburg,40.71244,-73.9581,Entire home/apt,750,3,0,,,3,7
+34543513,"Spectacular Duplex 4Bdr 3Bath Lincoln C 2,000 Sqft",232596712,Jessica,Manhattan,Upper West Side,40.77808,-73.9806,Entire home/apt,950,30,0,,,6,339
+24135740,"4 Bed, 2 Bath Apt in East Village-Garden Duplex",177353847,East Village,Manhattan,East Village,40.72468,-73.98996,Entire home/apt,650,4,11,2019-07-07,0.75,4,164
+15141661,New Development Prime Soho 2 Bedroom Apartment,30283594,Kara,Manhattan,SoHo,40.7249,-74.00105,Entire home/apt,643,30,0,,,121,249
+31001555,5th Ave Luxury St. Regis NYC King Room Manhattan,26556695,Alyssa,Manhattan,Midtown,40.7608,-73.97391,Entire home/apt,820,1,1,2019-06-24,1.0,6,365
+7254986,Country House in the City,3695529,Jenni,Brooklyn,Carroll Gardens,40.68358,-73.99474000000001,Entire home/apt,600,5,12,2019-05-16,0.25,2,174
+34996955,Large 3Bed/2Bath: Elevator + Wash/Dryer!,263635162,Justin,Manhattan,Lower East Side,40.71736,-73.9827,Entire home/apt,600,4,3,2019-06-03,2.25,1,315
+15497673,Bluebird Hell's Kitchen Deluxe 2BR+ Zero Edge Pool,95459395,Bluebird,Manhattan,Hell's Kitchen,40.7619,-73.99896,Entire home/apt,748,30,0,,,18,365
+15881766,Cosy Holidays in NYC,42271764,Elena,Brooklyn,Crown Heights,40.67432,-73.95329,Private room,700,30,1,2017-01-02,0.03,1,87
+9809784,Lux Interior Designer Brookyln Flat,3976298,Sidra,Brooklyn,Prospect Heights,40.67815,-73.96823,Entire home/apt,995,5,1,2016-01-02,0.02,1,89
+25798461,Large 2 bedroom downtown Loft Apartment,195803,Zinnia,Manhattan,NoHo,40.72555,-73.99283,Entire home/apt,649,1,5,2018-11-03,0.4,1,75
+33519952,"Class, Comfort, Convenience In The Heart of NYC",229489983,Devin,Manhattan,Hell's Kitchen,40.76485,-73.99229,Entire home/apt,799,2,5,2019-06-02,2.38,1,247
+34119451,Amazing 3BR private triplex in historic townhouse!,5173736,Yuliya,Manhattan,Gramercy,40.73499,-73.98875,Entire home/apt,1000,3,7,2019-06-10,3.09,1,286
+26188604,Exclusive & Bright Private 3-Floor Townhome,385367,Tom,Brooklyn,Williamsburg,40.71758,-73.95153,Entire home/apt,595,3,5,2019-01-01,0.43,1,13
+8498323,Great UES location for Pope visit,44751629,Jeffrey,Manhattan,Upper East Side,40.77532,-73.95132,Entire home/apt,650,2,0,,,1,0
+11459958,Amazing spacious Loft in Williamsbu,60266817,Alberto,Brooklyn,Williamsburg,40.71213,-73.95654,Entire home/apt,690,1,91,2019-06-23,2.28,1,169
+27521147,Empire State views LUXURY 3BR/2BA w terrace+Gym,131493626,Maya,Manhattan,Murray Hill,40.74828,-73.97917,Entire home/apt,799,5,5,2019-06-19,0.55,1,340
+9773158,"The Spring St Residence,SoHo -Perfect For Families",31758028,Danai,Manhattan,SoHo,40.72496,-74.00928,Entire home/apt,699,7,0,,,1,37
+33641209,Glamorous 3 Bedroom/3 Bath Brownstone,253528452,Fab,Manhattan,Murray Hill,40.74779,-73.98100000000001,Entire home/apt,800,3,9,2019-06-22,3.46,1,276
+16855679,Modern 1 Bedroom Condo at Midtown 45,24126726,Nadine,Manhattan,Midtown,40.75305,-73.97358,Private room,640,2,0,,,3,0
+30744215,NYC Marathon 2019 - Near Carnegie Hall - 2 nights,51151126,Anne,Manhattan,Midtown,40.7654,-73.98201999999999,Private room,600,2,0,,,2,2
+1171581,Spacious 2 bedroom near Times Sq,6414296,Noelle,Manhattan,Hell's Kitchen,40.7593,-73.99143000000001,Entire home/apt,1000,1,0,,,1,365
+3946288,"A Safe & Pleasant Time in NYC, 3",20438402,Geoff & Aurelia,Manhattan,East Harlem,40.79365,-73.9349,Entire home/apt,540,3,20,2018-12-05,0.38,3,350
+15068067,Historic Serene Chelsea Brownstone 2.5 Bed,9035097,Alex,Manhattan,Chelsea,40.74787,-74.00088000000001,Entire home/apt,750,30,42,2019-01-04,1.24,1,281
+36413632,Spacious 2BR in Beautiful Brooklyn Heights,6608220,Matt,Brooklyn,Brooklyn Heights,40.69827,-73.99649000000001,Entire home/apt,550,3,1,2019-07-07,1.0,1,230
+30193325,*NO GUEST SERVICE FEE* Beekman Tower Two Bedroom  #2,205031545,Red Awning,Manhattan,Midtown,40.75439,-73.96648,Entire home/apt,956,4,0,,,49,121
+30193397,*NO GUEST SERVICE FEE* Beekman Tower Studio Suite  #3,205031545,Red Awning,Manhattan,Midtown,40.75428,-73.96566,Entire home/apt,675,28,1,2018-12-29,0.16,49,225
+35000157,Luxury 3 Bed in The Big Apple,263684024,Walid,Manhattan,Murray Hill,40.74459,-73.97436,Entire home/apt,600,4,5,2019-07-01,4.69,1,167
+27992581,New Large Luxury Residence in Manhattan,16223929,Justin,Manhattan,Hell's Kitchen,40.75525,-73.99597,Entire home/apt,639,3,4,2019-03-26,0.38,1,108
+14221607,Beautiful Three Bedroom,52999390,Avery,Brooklyn,East Flatbush,40.66525,-73.92554,Entire home/apt,650,1,3,2016-09-30,0.08,1,0
+15233592,Bluebird Deluxe 2-BR Apartment Near Central Park!,95459395,Bluebird,Manhattan,Hell's Kitchen,40.767140000000005,-73.9834,Entire home/apt,748,30,0,,,18,333
+34999415,DUPLUXURY Apartment 5 Star Duplex,67249971,Sayonara,Manhattan,Chelsea,40.75064,-73.99566,Entire home/apt,900,1,0,,,1,355
+35495582,★ AMAZING★  TIME SQUARE/ 2 Bedroom 3 Bed Apartment,266992480,Sam,Manhattan,Hell's Kitchen,40.76573,-73.98897,Entire home/apt,500,3,14,2019-07-07,14.0,2,45
+36452721,Massage Spa. Stay overnight. Authors Artist dream.,274079964,Richard,Brooklyn,Sheepshead Bay,40.59866,-73.95661,Private room,800,1,0,,,1,23
+29181281,A Suite with breathtaking views of NYC !,145981682,Simi,Manhattan,Theater District,40.75982,-73.98418000000001,Private room,999,1,12,2019-02-11,1.4,3,213
+15314054,Cityscape Views at Lux 1 Bed/1 Bath in Lincoln Sq.,836168,Henry,Manhattan,Upper West Side,40.78065,-73.98253000000001,Entire home/apt,1000,30,17,2017-04-16,0.51,11,365
+30910732,"Spacious bright 4 bedrm Manhattan home, elevator!",59051417,Kai,Manhattan,East Harlem,40.79611,-73.94906,Entire home/apt,750,3,5,2019-06-05,0.78,6,249
+15497821,Bluebird Hell's Kitchen 2-BR + Killer City Views,95459395,Bluebird,Manhattan,Hell's Kitchen,40.76045,-73.99929,Entire home/apt,748,30,1,2018-06-17,0.08,18,365
+35416507,Amazing 3 BEDROOMS Brooklyn,217807790,Jessica,Brooklyn,Williamsburg,40.71647,-73.94657,Entire home/apt,500,3,0,,,1,354
+12343098,Fabulously Located Comfortable 3 Bedroom Loft,66640174,E.C.,Manhattan,Flatiron District,40.7411,-73.99024,Entire home/apt,525,5,49,2019-06-13,1.26,1,314
+34938245,Luxury Duplex in the Heart of New York City,221213143,David,Manhattan,Kips Bay,40.74155,-73.98138,Entire home/apt,650,1,0,,,9,298
+1746726,"Chelsea NYC luxury 2 bed/2 bath, garden apt",4051126,Kris,Manhattan,Chelsea,40.74188,-73.99729,Entire home/apt,555,3,111,2019-07-03,1.63,1,191
+27237578,*NO GUEST SERVICE FEE* Beekman Tower One Bedroom Suite with Kitchen,205031545,Red Awning,Manhattan,Midtown,40.75417,-73.96557,Entire home/apt,737,3,8,2019-06-02,1.02,49,188
+9556028,Large 3 BR Greenwich Village Apartment,41863600,Ken,Manhattan,East Village,40.73068,-73.98949,Entire home/apt,500,5,4,2018-12-28,0.22,1,0
+2385344,The Rose House,179296,Rich,Brooklyn,Greenpoint,40.733340000000005,-73.95478,Entire home/apt,500,3,74,2019-06-24,1.17,1,364
+32104047,Wyndham Midtown 45 at New York City - Bedroom,194953121,Christian,Manhattan,Midtown,40.75204,-73.97278,Entire home/apt,699,2,0,,,1,132
+35183070,Designer Brooklyn townhouse with private yard,5453550,Christine & James,Brooklyn,Bedford-Stuyvesant,40.693940000000005,-73.95693,Entire home/apt,500,30,0,,,3,141
+35898307,1 bedroom overlooking STONEWALL - PRIDE WEEKEND.,133372725,Andrew,Manhattan,West Village,40.73421,-74.00321,Entire home/apt,750,1,0,,,1,5
+2256519,Spacious 1BR Chelsea Apt. for SB 48,11523254,Nicholas,Manhattan,Chelsea,40.74344,-73.99826,Entire home/apt,750,2,0,,,1,0
+29966643,RUSTIC/MODERN/EV/NYC,5523186,Mark,Manhattan,East Village,40.73042,-73.98491,Entire home/apt,750,3,0,,,2,179
+32326698,Washington Suite at Incentra Village Hotel,241889662,Incentra,Manhattan,West Village,40.73672,-74.00539,Private room,999,1,3,2019-07-01,2.43,5,329
+5432089,Manhattan house for large groups,23334165,Patricia,Manhattan,Harlem,40.82249,-73.94479,Entire home/apt,825,5,28,2019-06-01,0.59,3,290
+21709727,DESIGNER TOWNHOUSE IN HARLEM,271527,Richard,Manhattan,Harlem,40.81023,-73.94142,Entire home/apt,850,3,4,2018-11-24,0.22,2,178
+16489149,2 BDRM PRESIDENTIAL LUXURY CONDO MIDTOWN 45  NYC *,69545883,Chayla,Manhattan,Midtown,40.75373,-73.97272,Private room,999,3,1,2017-09-11,0.05,12,365
+32034149,9 Beds  4 Full Bath Duplex with Washer and Dryer,70058270,Lucy,Brooklyn,Crown Heights,40.66521,-73.93153000000001,Entire home/apt,575,3,0,,,4,105
+16147304,Studio/Full Kitchen at Wyndham Midtown 45 Resort,69545883,Chayla,Manhattan,Midtown,40.75302,-73.97221,Private room,699,3,2,2016-12-15,0.06,12,365
+9670233,3 Bed - 3 Bath East Village Oasis w Private Patio,49970809,Enzo,Manhattan,East Village,40.72846,-73.98987,Entire home/apt,550,1,141,2019-07-01,3.29,1,302
+29823499,Large Union Sq Apartment!,34986045,Andy,Manhattan,East Village,40.73228,-73.98669,Entire home/apt,650,3,1,2018-12-31,0.16,1,0
+35252356,Classy and CLEAN Designer Home in NYC 2bath,135838665,Lely & Gary,Manhattan,Flatiron District,40.73927,-73.98774,Entire home/apt,950,1,0,,,1,365
+8883877,Gorgeous Director’s Penthouse,14889425,Julian,Manhattan,East Village,40.72887,-73.98835,Entire home/apt,500,1,0,,,1,53
+16281547,Extremely Rare Townhouse in East Village,13715851,Marissa,Manhattan,East Village,40.7284,-73.98673000000001,Entire home/apt,850,3,0,,,1,180
+12811459,Superhost-Designer Legal 4 Bed Townhouse Midtown 2,69852641,Lisa,Manhattan,Hell's Kitchen,40.76303,-73.98767,Entire home/apt,1000,2,24,2019-05-30,0.71,3,274
+33944634,"Centrally Located 2 Bedroom, 1 Bath",243226371,Robert,Manhattan,East Village,40.72391,-73.98409000000001,Entire home/apt,700,2,8,2019-06-02,3.08,1,263
+749108,Cozy 4 BR Brooklyn townhouse in Clinton Hill,3936154,Molly,Brooklyn,Clinton Hill,40.68391,-73.96200999999999,Entire home/apt,575,3,12,2019-07-01,0.15,1,0
+25902370,New Modern Townhouse Clinton Hill Brooklyn,181863187,Pamela,Brooklyn,Clinton Hill,40.69462,-73.96996,Entire home/apt,550,12,0,,,1,2
+17382679,INCREDIBLE TOWNHOUSE 4 STORIES 5 BEDROOMS 3 BATH,34474212,Vinit,Manhattan,West Village,40.73444,-74.00129,Entire home/apt,600,2,93,2019-06-23,3.38,1,251
+34056750,Wyndham Midtown 45 at New York City,91854658,Genevieve,Manhattan,Midtown,40.75196,-73.97269,Entire home/apt,500,4,0,,,1,5
+4194494,Unique Full-Floor 2br/2bath in the Heart of SoHo,10367443,J,Manhattan,SoHo,40.72149,-73.99815,Entire home/apt,900,3,10,2018-12-30,0.17,1,0
+35187654,WEST VILLAGE Duplex Diamond,151937146,Anya,Manhattan,West Village,40.73705,-74.00966,Entire home/apt,995,1,3,2019-07-05,3.0,1,344
+19735722,Loft-like turn of the century apartment for shoots,31515758,Townsend,Manhattan,Washington Heights,40.83405,-73.94565,Entire home/apt,1000,1,1,2018-03-18,0.06,1,79
+546573,Stunning apt with downtown views!,1792568,Mickey,Manhattan,Financial District,40.70587,-74.01534000000001,Entire home/apt,500,2,63,2019-05-19,0.75,1,79
+35595716,Our slice of the Big Apple - good for large groups,266569093,Irma,Manhattan,Midtown,40.75519,-73.97010999999999,Entire home/apt,800,30,0,,,1,266
+26251659,"LYRIC - 2 Bedroom Suite, 1 Bath, Kitchen",197053492,Lyric At 70 Pine,Manhattan,Financial District,40.7057,-74.00819,Entire home/apt,650,1,7,2019-05-19,0.76,8,315
+33155912,"Brooklyn Heights Contemporary Gem, 3 Bed, 2 Bath",36477189,David,Brooklyn,Brooklyn Heights,40.69944,-73.99596,Entire home/apt,600,3,8,2019-07-02,2.96,1,44
+8496270,Sunny Loft Studio on 46th and 10th,44742061,Megan,Manhattan,Hell's Kitchen,40.76326,-73.99141999999999,Entire home/apt,500,1,0,,,1,0
+30754138,Prime Soho apartment with private backyard,163035332,Pirin,Manhattan,SoHo,40.721990000000005,-74.00444,Entire home/apt,550,2,12,2019-07-03,1.72,3,126
+35193964,Breathtaking Balcony Views in the Big Apple,1461161,Sherwin,Manhattan,Murray Hill,40.744240000000005,-73.9733,Entire home/apt,500,4,6,2019-07-07,5.62,1,138
+9991265,Iconic NY loft apt in West village,2974643,Zoe,Manhattan,West Village,40.73105,-74.00464000000001,Entire home/apt,500,7,0,,,1,365
+35037136,10 Beds Sleeps 15 Laundry in Apt in Williamsburg,120111937,Madea And Julian,Brooklyn,Williamsburg,40.70865,-73.96673,Entire home/apt,549,30,5,2019-06-23,3.33,1,333
+21313240,Originally Maxs Kansas City Historic UnionSqr Loft,115497723,Gregory,Manhattan,Gramercy,40.73591,-73.98744,Entire home/apt,540,2,53,2019-07-07,4.43,1,215
+23277230,2 bedrooms flat near Central Park,128579948,Giampiero,Manhattan,Upper East Side,40.76646,-73.9676,Entire home/apt,500,3,56,2019-06-27,3.57,2,163
+2252844,Great place to crash for Super Bowl,11505536,Alex,Manhattan,East Village,40.73046,-73.9921,Private room,500,1,0,,,1,0
+34997773,AMAZING! 7bd/4ba TownHome + PATIO - 10 Mins To NYC,16625273,Richard,Brooklyn,Williamsburg,40.71495,-73.94726,Entire home/apt,695,2,1,2019-07-02,1.0,3,282
+32458305,94TH STREET BIG 1BR SUITE WITH DOORMAN-GYM,123745971,Especial,Manhattan,Upper East Side,40.78213,-73.94839,Private room,500,2,0,,,6,351
+29277834,Midtown City &River View~Luxury 3BR/2BA~BalconyGym,33510623,Motty,Manhattan,Murray Hill,40.74629,-73.97703,Entire home/apt,899,4,5,2019-06-11,0.71,1,340
+5442313,3 Fully Furnished Apts 1 House!,3483450,Aswad,Brooklyn,Bedford-Stuyvesant,40.68054,-73.91374,Entire home/apt,700,1,6,2017-02-15,0.13,3,322
+13306156,Large deluxe queen size bedroom,36579485,Jean&  Toney,Brooklyn,Canarsie,40.6418,-73.90245,Private room,600,2,0,,,3,362
+18142333,"Elegant 5BR, 2.5 Bath w/Yard, 15 Mins to Manhattan",107022433,Nikita,Brooklyn,Bedford-Stuyvesant,40.68402,-73.93081,Entire home/apt,550,2,32,2019-06-16,1.5,3,248
+16310798,Hotel Room King/Queen at Wyndham Midtown 45 Resort,69545883,Chayla,Manhattan,Midtown,40.75198,-73.97266,Private room,799,3,3,2017-09-30,0.1,12,365
+2249928,Super Bowl Wknd! 3-Bedroom Apt UWS,2675913,Sam,Manhattan,Upper West Side,40.78574,-73.9764,Entire home/apt,1000,1,0,,,1,0
+30739837,Spacious and relaxing apartment in UWS.,181370114,Feizal,Manhattan,Upper West Side,40.79167,-73.97864,Entire home/apt,500,1,0,,,1,87
+13233830,Beautiful Historic Brooklyn Townhouse! 4Br/3.5Bath,24743701,Renata And Howard,Brooklyn,Prospect-Lefferts Gardens,40.66108,-73.95567,Entire home/apt,650,5,3,2019-07-02,0.08,2,23
+15206607,STUDIO Condo in luxurious Wyndham Midtown 45 NYC,96098402,Wynpoints,Manhattan,Midtown,40.75294,-73.9719,Private room,699,3,3,2016-12-11,0.09,12,365
+28439263,"10BR 6 full Bath, 3 story, entire landmark house",210970608,Lucy,Brooklyn,Crown Heights,40.6692,-73.95054,Entire home/apt,785,3,0,,,5,226
+250801, Heart & Soul of Greenwich Village ,1314834,Rhona,Manhattan,Greenwich Village,40.73129,-73.99944,Entire home/apt,850,3,107,2019-05-23,1.15,1,249
+34420423,Quirky 1 BR / Studio in Heart of East Village,19509387,Greg,Manhattan,East Village,40.72592,-73.98701,Entire home/apt,600,2,1,2019-05-26,0.68,1,0
+13873028,Penthouse in Midtown Manhattan,82054811,Carol,Manhattan,Midtown,40.76518,-73.98210999999999,Private room,500,3,0,,,1,0
+31533898,TRENDi 6 BEDROOM  2 APARTMENTS COMBINED/12 BEDS,133234099,Gemma,Manhattan,Harlem,40.8095,-73.94296999999999,Entire home/apt,750,3,0,,,2,97
+4174115,Spacious Soho Loft,5739699,Rosemary,Manhattan,SoHo,40.7244,-73.99763,Entire home/apt,500,3,3,2015-05-05,0.05,1,0
+6936794,Modern 3 Beds in Gorgeous Building,12028820,Kim,Manhattan,Upper East Side,40.76348,-73.95884000000001,Entire home/apt,900,7,28,2019-05-05,0.58,1,340
+8595191,Greenwich Village Hotspot,19564640,Dave,Manhattan,Greenwich Village,40.73008,-74.0005,Entire home/apt,500,1,0,,,1,0
+23820538,Large 3 Bedroom Loft in Heart of Williamsburg,28373054,Nadira,Brooklyn,Williamsburg,40.71201,-73.95881999999999,Entire home/apt,600,3,14,2019-06-17,0.98,1,167
+23766156,TheBlueHouse. EntireHome. BabyGrand. FreeParking.,178266385,Megan,Brooklyn,Cypress Hills,40.68012,-73.89338000000001,Entire home/apt,800,1,3,2018-08-15,0.21,1,362
+35870390,NYC West Village Charming 2 Bedroom APT,269799543,Darlene,Manhattan,West Village,40.73558,-74.00492,Entire home/apt,550,3,0,,,1,353
+35943648,Spacious 6BR in Bushwick (10 Mins to Manhattan!),269865501,Adela,Brooklyn,Bushwick,40.69445,-73.92235,Entire home/apt,550,2,0,,,3,354
+103311,2 BR w/ Terrace @ Box House Hotel,417504,The Box House Hotel,Brooklyn,Greenpoint,40.73861,-73.95485,Private room,599,3,9,2018-05-19,0.09,28,60
+1798271,Spacious center hall colonial,9430973,Donna,Staten Island,Woodrow,40.53884,-74.19826,Entire home/apt,700,7,0,,,1,0
+35454095,Beautiful Townhouse - Center of NYC 4br/2ba,177188159,Anna + Brad,Manhattan,Upper East Side,40.76254,-73.96223,Entire home/apt,800,3,0,,,1,277
+35260994,"Beautiful / Sunny One Bedroom, Heart of NoLita",36960740,Athena,Manhattan,Nolita,40.72435,-73.99419,Entire home/apt,500,1,0,,,1,9
+31909623,Wyndham Midtown 45 New York City 1 BR Apt w/View,96086378,Ashley,Manhattan,Midtown,40.75342,-73.97135,Entire home/apt,699,1,1,2019-04-23,0.39,2,333

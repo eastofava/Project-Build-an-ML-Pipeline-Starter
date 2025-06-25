@@ -21,7 +21,7 @@ _steps = [
 
 
 # This automatically reads in the configuration
-@hydra.main(config_name='config')
+@hydra.main(config_path='.', config_name='config', version_base="1.1")
 def go(config: DictConfig):
 
     # Setup the wandb experiment. All runs will be grouped under this name
@@ -51,16 +51,33 @@ def go(config: DictConfig):
             )
 
         if "basic_cleaning" in active_steps:
-            ##################
-            # Implement here #
-            ##################
-            pass
+            #applying basic cleaning steps to data
+            _ = mlflow.run(
+                os.path.join(os.getcwd(),"src", "basic_cleaning"),
+                "main",
+                parameters={
+                    "input_artifact": "sample.csv:latest",
+                    "output_artifact": "clean_sample.csv",
+                    "output_type": "dataset",
+                    "output_description": "Data with outliers and nulls removed",
+                    "min_price": config["basic_cleaning"]["min_price"],
+                    "max_price": config["basic_cleaning"]["max_price"],
+                },
+            )
 
         if "data_check" in active_steps:
-            ##################
-            # Implement here #
-            ##################
-            pass
+            _ = mlflow.run(
+                os.path.join(os.getcwd(), "src", "data_check"),
+                "main",
+                parameters={
+                    "csv": "clean_sample.csv:latest",
+                    "ref": "clean_sample.csv:reference",
+                    "kl_threshold": config["data_check"]["kl_threshold"],
+                    "min_price": config["basic_cleaning"]["min_price"],
+                    "max_price": config["basic_cleaning"]["max_price"],
+                },
+            )
+    
 
         if "data_split" in active_steps:
             ##################
