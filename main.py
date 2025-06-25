@@ -23,6 +23,8 @@ _steps = [
 # This automatically reads in the configuration
 @hydra.main(config_path='.', config_name='config', version_base="1.1")
 def go(config: DictConfig):
+    from hydra.core.hydra_config import HydraConfig
+    os.chdir(HydraConfig.get().runtime.cwd)
 
     # Setup the wandb experiment. All runs will be grouped under this name
     os.environ["WANDB_PROJECT"] = config["main"]["project_name"]
@@ -80,10 +82,16 @@ def go(config: DictConfig):
     
 
         if "data_split" in active_steps:
-            ##################
-            # Implement here #
-            ##################
-            pass
+            _ = mlflow.run(
+                f"{config['main']['components_repository']}/train_val_test_split",
+                'main',
+                parameters = { 
+                    "input": "clean_sample.csv:latest",
+                    "test_size": config["modeling"]["test_size"],
+                    "random_seed": config["modeling"]["random_seed"],
+                    "stratify_by": config["modeling"]["stratify_by"],
+                },
+        )
 
         if "train_random_forest" in active_steps:
 
@@ -112,3 +120,4 @@ def go(config: DictConfig):
 
 if __name__ == "__main__":
     go()
+    
