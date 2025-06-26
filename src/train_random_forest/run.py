@@ -23,7 +23,7 @@ from sklearn.ensemble import RandomForestRegressor
 from sklearn.metrics import mean_absolute_error
 from sklearn.pipeline import Pipeline, make_pipeline
 import os
-os.system("wandb login dd9892597efdbed03739e09a4b7886d52e7dd824")
+
 
 
 def delta_date_feature(dates):
@@ -41,7 +41,7 @@ logger = logging.getLogger()
 
 def go(args):
 
-    run = wandb.init(project="nyc_airbnb_pipeline", job_type="train_random_forest")
+    run = wandb.init(project="nyc_airbnb", job_type="train_random_forest")
     run.config.update(args)
 
     # Get the Random Forest configuration and update W&B
